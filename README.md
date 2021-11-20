@@ -2,7 +2,11 @@
 
 <!--
 **jihs2113/jihs2113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm mobile app developer using Android and iOS. 🚀
+Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖
 
+I enjoy hiking, swimming, dive and surf. ⛰ 🏄
+I hope to develop every beautiful things. ✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
