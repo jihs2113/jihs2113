@@ -1,6 +1,6 @@
 <p>
-<img src="https://img.shields.io/badge/-Blog-1877f2?style=flat-square&logo=Bloglovin&logoColor=white&link=https://jindev-t.tistory.com/"/>
-<img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlsxo9302@gmail.com"/>
+<img src="https://img.shields.io/badge/-Blog-1877f2?style=flat-square&logo=Bloglovin&logoColor=white&link=https://velog.io/@jihs2113/"/>
+<img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jihs2113@gmail.com"/>
 </p>
 
 ### 👋 Hi there!
