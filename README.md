@@ -8,7 +8,7 @@
 </p>
 
 ### 👋 Hi there!
-I'm Web Junior developer.🚀
+I'm front-end developer.🚀
 
 Sometimes I develop cross-platforms like ReactNative, but prefer native.
 
