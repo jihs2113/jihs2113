@@ -14,7 +14,7 @@ Sometimes I develop cross-platforms like ReactNative, but prefer native.
 
 I enjoy painting and surf. 🏄
 
-I hope to develop precise and fast things. ✨
+I hope to Agile Software Development. the more precise more fast ✨
 
 ### 💪Skills
 Platforms & Languages
