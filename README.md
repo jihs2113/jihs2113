@@ -28,7 +28,7 @@ Platforms & Languages
 </p>
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Nodejst&logoColor=black"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express-232F3E?style=flat-square&logo=Express&logoColor=white"/>
 </p>
 
 Tools
