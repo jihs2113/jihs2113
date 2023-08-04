@@ -7,14 +7,12 @@
 </a>
 </p>
 
-### 👋 Hi there!
-I'm front-end developer.🚀
-
-Sometimes I develop cross-platforms like ReactNative, but prefer native.
-
-I enjoy painting and surf. 🏄
-
-I hope to Agile Software Development. the more precise more fast ✨
+### 👋 반갑습니다!
+안녕하세요 프론트엔드 개발자 김지환입니다.🚀
+신기술 동향에 관심이 많으며 꾸준히 공부하며 도전하는 것을 좋아합니다.
+다양성을 추구하며 배려와 존중을 기반으로 소통하는 사람입니다.
+협업으로 목표한 것들을 뚜렷한 결과물로 만들어내는 과정을 즐깁니다.🏄
+시니어 개발자를 목표로 고객의 니즈를 해결하는 서비스 플렛폼 개발의 꿈이 있습니다.✨
 
 ### 💪Skills
 Platforms & Languages
