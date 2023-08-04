@@ -26,10 +26,6 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/Vue3-20C997?style=flat-square&logo=Vue&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-4FC08D?style=flat-square&logo=Flutter&logoColor=white"/>
 </p>
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Nodejst&logoColor=black"/>
-<img src="https://img.shields.io/badge/Express-232F3E?style=flat-square&logo=Express&logoColor=white"/>
-</p>
 
 Tools
 <p>
